@@ -1,0 +1,14 @@
+# Hemmeligheder - må ALDRIG på GitHub
+service-account.json
+
+# C# / .NET
+bin/
+obj/
+.vs/
+
+# Android / Gradle (til appen senere)
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
