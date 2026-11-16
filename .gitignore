@@ -12,3 +12,5 @@ build/
 local.properties
 .idea/
 *.iml
+# Firebase-konfiguration til appen
+google-services.json
